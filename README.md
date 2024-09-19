@@ -12,9 +12,9 @@
 </div>
 <br>
 <div>
-  <a href="https://github.com/arthurbenczdecamargo">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=arthurbenczdecamargo&show_icons=true&theme=transparent&include_all_commits=true&custom_title=My%20GitHub%20Stats&hide_border=true&hide_rank=true&&hide=prs,issues"/>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbenczdecamargo&layout=compact&langs_count=10&theme=transparent&hide_border=true"/>
+<a href="https://github.com/arthurbenczdecamargo">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=arthurbenczdecamargo&show_icons=true&theme=transparent&include_all_commits=true&custom_title=My%20GitHub%20Stats&hide_border=true&hide=prs,issues&hide_rank=true"/>
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbenczdecamargo&layout=compact&langs_count=10&theme=transparent&hide_border=true"/>
 </div>
 
 ### Contact:
