@@ -23,7 +23,7 @@
 <img src="https://github.com/user-attachments/assets/a9cf2394-aba5-49ba-b101-35933a0ccccf" viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg" />
 
 ### Alura courses certificate:
-<a href="https://cursos.alura.com.br/user/arthurbenczdecamargo/fullCertificate/e200622762e0246c8f7501a198e7baed/" target="_blank"><img height="40px" width="40px" src="https://github.com/user-attachments/assets/b25e8f40-6878-4b98-8d0b-f8468616293d/" /></a>
+<a href="https://github.com/user-attachments/files/17297927/Alura.courses.certificate.pdf" target="_blank"><img height="40px" width="40px" src="https://github.com/user-attachments/assets/b25e8f40-6878-4b98-8d0b-f8468616293d/" /></a>
 
 ### Contact:
 <a href="https://www.linkedin.com/in/arthurbenczdecamargo/" target="_blank"><img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
