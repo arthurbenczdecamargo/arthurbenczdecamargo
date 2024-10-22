@@ -11,13 +11,12 @@
   <img height="55px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
   <img height="55px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />  
   <br>
-  <img src="https://github.com/user-attachments/assets/187c8c88-cdcc-4226-b615-27b29cae1b41" alt="" align="right" height="300px">
 </div>
 <br>
 <div>
 <a href="https://github.com/arthurbenczdecamargo">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=arthurbenczdecamargo&show_icons=true&theme=transparent&custom_title=My%20GitHub%20Stats&hide_border=true&hide=prs,issues&hide_rank=true"/>
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbenczdecamargo&layout=compact&langs_count=10&theme=transparent&hide_border=true"/>
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbenczdecamargo&layout=compact&langs_count=10&theme=transparent&hide_border=true&size_weight=0&count_weight=1"/>
 </div>
 
 <img src="https://github.com/user-attachments/assets/a9cf2394-aba5-49ba-b101-35933a0ccccf" viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg" />
