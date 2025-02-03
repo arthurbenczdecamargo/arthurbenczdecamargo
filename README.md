@@ -3,7 +3,7 @@
 ## About me:
 I'm a **Brazilian Software Engineering student**, currently in my 5th semester, with a passion for technology and software development. 
 I'm constantly improving my skills through courses at **Alura** and personal projects involving programming logic, web development, and data science.
-You can view my **Alura** course certificates <a href="https://github.com/user-attachments/files/18043606/alura_courses_certificate.pdf" target="_blank">here</a>.
+You can view my **Alura** course certificates <a href="https://github.com/user-attachments/files/18647711/Arthur-course-certificate.pdf" target="_blank">here</a>.
 
 Fluent in **Portuguese** (native), proficient in **English** and intermediate in **Spanish**, I've also been learning **German** for 5 years through private lessons and started self-studying **Japanese** recently. Additionally, my **Luxembourgish citizenship** provides me with greater flexibility and opportunities for work within the **European Union**.
 
@@ -17,6 +17,8 @@ I'm excited to apply my knowledge and contribute to innovative projects in the t
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img height="55px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img height="55px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img height="55px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img height="55px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
@@ -30,13 +32,13 @@ I'm excited to apply my knowledge and contribute to innovative projects in the t
 
 <div>
 <a href="https://github.com/arthurbenczdecamargo">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=arthurbenczdecamargo&show_icons=true&theme=transparent&custom_title=My%20GitHub%20Stats&hide_border=true&hide=prs,issues&hide_rank=true"/>
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbenczdecamargo&layout=compact&langs_count=10&theme=transparent&hide_border=true&size_weight=0&count_weight=1"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=arthurbenczdecamargo&show_icons=true&include_all_commits=true&theme=transparent&custom_title=My%20GitHub%20Stats&hide_border=true&hide=prs,issues&hide_rank=true"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbenczdecamargo&layout=compact&langs_count=10&theme=transparent&hide_border=true&size_weight=0&count_weight=1"/>
 </a>
 </div>
 
 <a href="https://github.com/arthurbenczdecamargo">
-<img src="https://github.com/user-attachments/assets/407b1f95-472c-4cd0-ba1e-30d9bc3b59fb" viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg" />
+<img src="https://github.com/user-attachments/assets/d24db704-36de-4c9d-8390-05fc5870b34c" viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg" />
 </a>
 
 ## Contact:
